@@ -1,8 +1,8 @@
 ## Oi sou Cleisson Vasconcelos, desenvolvedor full stack!!!
 <div align="left">
   <a href="https://github.com/Cleisson1992">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cleisson1992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleisson1992&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cleisson1992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleisson1992&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="Cleisson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
